@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Ezra J Miller
+Sudent Email:  ezmiller@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I learned how to extract, transform and load data as if I were completing a service for a client. The ETL process forms the basis of working with pretty much any dataset.
